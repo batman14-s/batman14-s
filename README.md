@@ -6,7 +6,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=batman14-s&theme=dark)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=batman14-s&show_icons=true&theme=merko)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=batman14-s&show_icons=true&t&bg_color=FA8B01)
 
 
 
