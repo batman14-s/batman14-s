@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a recent garduate from IIT Mandi.
+- 🔭 I’m a recent graduate from IIT Mandi.
 - 🌱 My Interests are Machine Learning, Web Development, DSA
 - 📫 How to reach me: Email me at sweetyag142@gmail.com
 
